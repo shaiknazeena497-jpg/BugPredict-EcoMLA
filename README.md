@@ -29,4 +29,12 @@ Advantages:
 •	Proposed Algorithms bug prediction models are based on Ensembled  machine learning algorithms.
 
 
+### What is Anaconda for Python?
+The Anaconda tool makes it easy to build up an environment that is compatible with multiple versions of Python and its packages. With Anaconda, you can manage your project environments and install, delete, and update packages to the latest versions. In addition, Anaconda makes it easy to launch any project with a single click. This makes it an ideal choice for those who are new to Python and are just starting out. 
+With that context in mind, we will next look at the installation of Anaconda Python. 
+How to install Anaconda for Python?
+Simply download the installer for your operating system from the Anaconda Documentation website and follow the on-screen instructions to get Anaconda up and running. Simply double-click the installer file to begin the installation process when it has finished downloading. Acceptance of the terms and conditions may be accomplished by following the on-screen instructions. If asked to "add Anaconda to my PATH environment variable," just choose "yes." Doing so will enable you to include Anaconda in the PATH, a path that your OS uses to locate files. The installation will end with an option to "Enable Anaconda as my default Python." shown. Select "yes" if you would want to use Anaconda as your default Python interpreter. Anaconda Installation with Python Installing Python Anaconda is the next step in the course. The latest version of Anaconda that is currently available is 2019.10. To get Anaconda installed on your computer, follow these steps: 
+To get Anaconda for Mac, Windows, or Linux, use this URL: - An Get the Anaconda archive.
+
+
 
