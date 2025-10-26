@@ -4,3 +4,7 @@ Bug prediction place a vital role in  enhancing software quality and reducing ma
 
 ### 1.2	PROBLEM STATEMENT
 In software development, the maintenance phase is crucial for fixing defects and ensuring software quality. Bug reports (BRs) play a central role in this process by providing detailed information about defects in the software. However, as the volume of bug reports increases over time, the process of manually analyzing and categorizing them becomes increasingly tedious, error-prone, and time-consuming. Current research on automated bug analysis often focuses on tasks like predicting bug severity or priority, but it overlooks a critical aspect: the nature of the bug itself.
+
+
+## OUTPUT :
+<img width="1244" height="805" alt="Screenshot 2025-10-26 211132" src="https://github.com/user-attachments/assets/fa61125a-510c-4bf9-96cf-a94b44eb0236" />
