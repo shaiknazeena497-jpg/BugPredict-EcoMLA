@@ -39,9 +39,11 @@ main = tkinter.Tk()
 main.title("Nature-Based Prediction Model of Bug Reports Based on Ensemble Machine Learning Model") #designing main screen
 main.geometry("1000x650")
 
-global filename, X, Y, dataset
+global filename, dataset
 global X_train, X_test, y_train, y_test, xg_model
 global accuracy, precision, recall, fscore, tfidf_vectorizer, sc
+X = []
+Y = []
 
 #define object to remove stop words and other text processing
 stop_words = set(stopwords.words('english'))
