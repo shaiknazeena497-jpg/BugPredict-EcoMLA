@@ -7,4 +7,6 @@ In software development, the maintenance phase is crucial for fixing defects and
 
 
 ## OUTPUT :
-<img width="1244" height="805" alt="Screenshot 2025-10-26 211132" src="https://github.com/user-attachments/assets/fa61125a-510c-4bf9-96cf-a94b44eb0236" />
+
+<img width="1247" height="837" alt="Screenshot 2025-10-26 211434" src="https://github.com/user-attachments/assets/3038b16c-82a7-40aa-bc4c-027a180aca5e" />
+
